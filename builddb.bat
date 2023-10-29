@@ -1,0 +1,1 @@
+odin build ./src -o:none -out:bin/debug/lc3db.exe -debug
